@@ -1,1 +1,1 @@
-export const DbName = "ProjectToDo"
+export const DbName = "ProjectToDo";
